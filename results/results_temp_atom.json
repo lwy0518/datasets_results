@@ -1,0 +1,95 @@
+[
+    "3 of 7 contracts flagged.",
+    "DetectFakedEosTransfer: 1 contracts account for 14.29%",
+    "DetectForgedTranNotification: 1 contracts account for 14.29%",
+    "DetectBlockInfoDependency: 1 contracts account for 14.29%",
+    {
+        "FakedEosTransfer": [
+            "notified"
+        ],
+        "ForgedTransferNotification": [
+            "forged"
+        ],
+        "BlockInformationDependency": [
+            "random"
+        ],
+        "ERROR": [],
+        "TIMEOUT": []
+    },
+    [
+        "helloworld",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.07808256149291992,
+            "decompile_time": 0.2188584804534912,
+            "souffle_time": 0.12134408950805664
+        }
+    ],
+    [
+        "notified",
+        [
+            "DetectFakedEosTransfer"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.16721534729003906,
+            "decompile_time": 0.49336838722229004,
+            "souffle_time": 0.24144649505615234
+        }
+    ],
+    [
+        "goodnoti",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.17772603034973145,
+            "decompile_time": 0.5623302459716797,
+            "souffle_time": 0.28493523597717285
+        }
+    ],
+    [
+        "goodforg",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.1784219741821289,
+            "decompile_time": 0.5664734840393066,
+            "souffle_time": 0.2854132652282715
+        }
+    ],
+    [
+        "test",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.1739954948425293,
+            "decompile_time": 0.5409643650054932,
+            "souffle_time": 0.3079824447631836
+        }
+    ],
+    [
+        "forged",
+        [
+            "DetectForgedTranNotification"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.17766904830932617,
+            "decompile_time": 0.5624094009399414,
+            "souffle_time": 0.3067798614501953
+        }
+    ],
+    [
+        "random",
+        [
+            "DetectBlockInfoDependency"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.20017528533935547,
+            "decompile_time": 0.6288702487945557,
+            "souffle_time": 0.41644859313964844
+        }
+    ]
+]

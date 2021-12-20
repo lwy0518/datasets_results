@@ -1,0 +1,20 @@
+[
+    "0 of 1 contracts flagged.",
+    {
+        "FakedEosTransfer": [],
+        "ForgedTransferNotification": [],
+        "BlockInformationDependency": [],
+        "ERROR": [],
+        "TIMEOUT": []
+    },
+    [
+        "test",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.16795730590820312,
+            "decompile_time": 0.5070719718933105,
+            "souffle_time": 0.27909374237060547
+        }
+    ]
+]
