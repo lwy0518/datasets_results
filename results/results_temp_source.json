@@ -27,19 +27,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.25980544090270996,
-            "decompile_time": 0.6789591312408447,
-            "souffle_time": 0.26577162742614746
-        }
-    ],
-    [
-        "eosbethack",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.2629411220550537,
-            "decompile_time": 1.0532505512237549,
-            "souffle_time": 0.4101431369781494
+            "build_cfg_time": 0.25202059745788574,
+            "decompile_time": 0.6873130798339844,
+            "souffle_time": 0.286144495010376
         }
     ],
     [
@@ -49,19 +39,19 @@
         ],
         [],
         {
-            "build_cfg_time": 0.3230419158935547,
-            "decompile_time": 0.9993383884429932,
-            "souffle_time": 0.4110677242279053
+            "build_cfg_time": 0.26729536056518555,
+            "decompile_time": 0.9744882583618164,
+            "souffle_time": 0.37764477729797363
         }
     ],
     [
-        "basics",
+        "eosbethack",
         [],
         [],
         {
-            "build_cfg_time": 0.406904935836792,
-            "decompile_time": 1.1285347938537598,
-            "souffle_time": 0.41347193717956543
+            "build_cfg_time": 0.3253607749938965,
+            "decompile_time": 0.9837198257446289,
+            "souffle_time": 0.4147958755493164
         }
     ],
     [
@@ -71,9 +61,19 @@
         ],
         [],
         {
-            "build_cfg_time": 0.3885502815246582,
-            "decompile_time": 1.2950892448425293,
-            "souffle_time": 0.5395314693450928
+            "build_cfg_time": 0.3446063995361328,
+            "decompile_time": 1.1765544414520264,
+            "souffle_time": 0.494321346282959
+        }
+    ],
+    [
+        "basics",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.43516063690185547,
+            "decompile_time": 1.2924988269805908,
+            "souffle_time": 0.4293501377105713
         }
     ],
     [
@@ -83,9 +83,9 @@
         ],
         [],
         {
-            "build_cfg_time": 0.4097435474395752,
-            "decompile_time": 1.2647650241851807,
-            "souffle_time": 0.549525260925293
+            "build_cfg_time": 0.3673110008239746,
+            "decompile_time": 1.2176964282989502,
+            "souffle_time": 0.5651252269744873
         }
     ],
     [
@@ -93,9 +93,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.3799769878387451,
-            "decompile_time": 1.2609412670135498,
-            "souffle_time": 0.6140215396881104
+            "build_cfg_time": 0.4448525905609131,
+            "decompile_time": 1.307387351989746,
+            "souffle_time": 0.5300107002258301
         }
     ],
     [
@@ -103,9 +103,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.39765000343322754,
-            "decompile_time": 1.2709641456604004,
-            "souffle_time": 0.8182637691497803
+            "build_cfg_time": 0.4027719497680664,
+            "decompile_time": 1.2995271682739258,
+            "souffle_time": 0.8506689071655273
         }
     ],
     [
@@ -113,9 +113,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.4756450653076172,
-            "decompile_time": 1.5462956428527832,
-            "souffle_time": 0.5979912281036377
+            "build_cfg_time": 0.4390380382537842,
+            "decompile_time": 1.4747095108032227,
+            "souffle_time": 0.6589982509613037
         }
     ],
     [
@@ -123,9 +123,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.44605565071105957,
-            "decompile_time": 1.3658783435821533,
-            "souffle_time": 0.8041133880615234
+            "build_cfg_time": 0.3946242332458496,
+            "decompile_time": 1.4001550674438477,
+            "souffle_time": 0.8219408988952637
         }
     ],
     [
@@ -133,9 +133,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.43862485885620117,
-            "decompile_time": 1.633758783340454,
-            "souffle_time": 0.7383224964141846
+            "build_cfg_time": 0.4315030574798584,
+            "decompile_time": 1.5220236778259277,
+            "souffle_time": 0.765906572341919
         }
     ],
     [
@@ -143,19 +143,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.585139274597168,
-            "decompile_time": 1.6094861030578613,
-            "souffle_time": 0.686478853225708
-        }
-    ],
-    [
-        "hello.target",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.11190652847290039,
-            "decompile_time": 0.45316052436828613,
-            "souffle_time": 0.20769095420837402
+            "build_cfg_time": 0.6749467849731445,
+            "decompile_time": 1.7386479377746582,
+            "souffle_time": 0.7330169677734375
         }
     ],
     [
@@ -163,19 +153,19 @@
         [],
         [],
         {
-            "build_cfg_time": 0.6682474613189697,
-            "decompile_time": 1.9555015563964844,
-            "souffle_time": 0.7744271755218506
+            "build_cfg_time": 0.563758134841919,
+            "decompile_time": 1.8044443130493164,
+            "souffle_time": 0.7974452972412109
         }
     ],
     [
-        "freestorage",
+        "hello.target",
         [],
         [],
         {
-            "build_cfg_time": 0.20511889457702637,
-            "decompile_time": 0.6916301250457764,
-            "souffle_time": 0.30822134017944336
+            "build_cfg_time": 0.11418557167053223,
+            "decompile_time": 0.4938209056854248,
+            "souffle_time": 0.22630810737609863
         }
     ],
     [
@@ -183,9 +173,19 @@
         [],
         [],
         {
-            "build_cfg_time": 0.7287442684173584,
-            "decompile_time": 2.032334089279175,
-            "souffle_time": 0.8541140556335449
+            "build_cfg_time": 0.6761150360107422,
+            "decompile_time": 2.1896963119506836,
+            "souffle_time": 0.8005120754241943
+        }
+    ],
+    [
+        "freestorage",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.20765018463134766,
+            "decompile_time": 0.7943787574768066,
+            "souffle_time": 0.2886483669281006
         }
     ],
     [
@@ -193,9 +193,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.7245497703552246,
-            "decompile_time": 2.159621477127075,
-            "souffle_time": 0.9055497646331787
+            "build_cfg_time": 0.7605621814727783,
+            "decompile_time": 2.183107852935791,
+            "souffle_time": 0.9298398494720459
         }
     ],
     [
@@ -203,9 +203,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.21340346336364746,
-            "decompile_time": 0.7468030452728271,
-            "souffle_time": 0.41378331184387207
+            "build_cfg_time": 0.21404719352722168,
+            "decompile_time": 0.770637035369873,
+            "souffle_time": 0.41521549224853516
         }
     ],
     [
@@ -215,9 +215,9 @@
         ],
         [],
         {
-            "build_cfg_time": 0.6421470642089844,
-            "decompile_time": 2.263540267944336,
-            "souffle_time": 1.5371086597442627
+            "build_cfg_time": 0.6740775108337402,
+            "decompile_time": 2.106030225753784,
+            "souffle_time": 1.397515058517456
         }
     ],
     [
@@ -225,19 +225,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.734126091003418,
-            "decompile_time": 2.542245626449585,
-            "souffle_time": 1.2716140747070312
-        }
-    ],
-    [
-        "lover",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.27021312713623047,
-            "decompile_time": 0.9680795669555664,
-            "souffle_time": 0.40012145042419434
+            "build_cfg_time": 0.7405250072479248,
+            "decompile_time": 2.3816914558410645,
+            "souffle_time": 1.2456655502319336
         }
     ],
     [
@@ -245,19 +235,19 @@
         [],
         [],
         {
-            "build_cfg_time": 0.4680449962615967,
-            "decompile_time": 1.4750099182128906,
-            "souffle_time": 0.6805369853973389
+            "build_cfg_time": 0.4148542881011963,
+            "decompile_time": 1.5124034881591797,
+            "souffle_time": 0.6165945529937744
         }
     ],
     [
-        "ethplay",
+        "lover",
         [],
         [],
         {
-            "build_cfg_time": 0.6514055728912354,
-            "decompile_time": 2.5863876342773438,
-            "souffle_time": 1.21323823928833
+            "build_cfg_time": 0.302199125289917,
+            "decompile_time": 1.1507704257965088,
+            "souffle_time": 0.4240446090698242
         }
     ],
     [
@@ -265,19 +255,19 @@
         [],
         [],
         {
-            "build_cfg_time": 0.6058409214019775,
-            "decompile_time": 2.1517999172210693,
-            "souffle_time": 1.8649959564208984
+            "build_cfg_time": 0.6186201572418213,
+            "decompile_time": 2.124117136001587,
+            "souffle_time": 1.9210209846496582
         }
     ],
     [
-        "keepscore",
+        "ethplay",
         [],
         [],
         {
-            "build_cfg_time": 0.5963544845581055,
-            "decompile_time": 2.057312250137329,
-            "souffle_time": 0.9987754821777344
+            "build_cfg_time": 0.6980812549591064,
+            "decompile_time": 2.7756400108337402,
+            "souffle_time": 1.2193033695220947
         }
     ],
     [
@@ -285,9 +275,19 @@
         [],
         [],
         {
-            "build_cfg_time": 0.3471524715423584,
-            "decompile_time": 1.447148323059082,
-            "souffle_time": 0.5121719837188721
+            "build_cfg_time": 0.3828921318054199,
+            "decompile_time": 1.411247968673706,
+            "souffle_time": 0.534595251083374
+        }
+    ],
+    [
+        "keepscore",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.5822646617889404,
+            "decompile_time": 2.119551181793213,
+            "souffle_time": 1.0761377811431885
         }
     ],
     [
@@ -295,9 +295,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.38333606719970703,
-            "decompile_time": 1.9822783470153809,
-            "souffle_time": 0.8997924327850342
+            "build_cfg_time": 0.44779515266418457,
+            "decompile_time": 1.9053759574890137,
+            "souffle_time": 0.828350305557251
         }
     ],
     [
@@ -305,9 +305,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.6147148609161377,
-            "decompile_time": 2.0463147163391113,
-            "souffle_time": 0.865039587020874
+            "build_cfg_time": 0.6198244094848633,
+            "decompile_time": 2.162604808807373,
+            "souffle_time": 0.8547511100769043
         }
     ],
     [
@@ -315,19 +315,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.3687148094177246,
-            "decompile_time": 3.987478017807007,
-            "souffle_time": 2.7620863914489746
-        }
-    ],
-    [
-        "mutualcredit",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.5535833835601807,
-            "decompile_time": 1.9197258949279785,
-            "souffle_time": 1.0314404964447021
+            "build_cfg_time": 1.3150744438171387,
+            "decompile_time": 3.846283197402954,
+            "souffle_time": 2.9372942447662354
         }
     ],
     [
@@ -335,29 +325,19 @@
         [],
         [],
         {
-            "build_cfg_time": 0.7981231212615967,
-            "decompile_time": 2.906081438064575,
-            "souffle_time": 1.4527513980865479
+            "build_cfg_time": 0.87601637840271,
+            "decompile_time": 2.888932704925537,
+            "souffle_time": 1.3727271556854248
         }
     ],
     [
-        "newapp1",
+        "mutualcredit",
         [],
         [],
         {
-            "build_cfg_time": 0.5554728507995605,
-            "decompile_time": 1.8337888717651367,
-            "souffle_time": 0.8831217288970947
-        }
-    ],
-    [
-        "forum",
-        [],
-        [],
-        {
-            "build_cfg_time": 1.2584953308105469,
-            "decompile_time": 4.011800765991211,
-            "souffle_time": 2.147456407546997
+            "build_cfg_time": 0.5189976692199707,
+            "decompile_time": 2.411689281463623,
+            "souffle_time": 0.9774389266967773
         }
     ],
     [
@@ -365,9 +345,29 @@
         [],
         [],
         {
-            "build_cfg_time": 1.867638111114502,
-            "decompile_time": 5.119456052780151,
-            "souffle_time": 2.855335235595703
+            "build_cfg_time": 1.802445650100708,
+            "decompile_time": 4.767746210098267,
+            "souffle_time": 2.912083625793457
+        }
+    ],
+    [
+        "forum",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.2760069370269775,
+            "decompile_time": 4.0128374099731445,
+            "souffle_time": 2.09375262260437
+        }
+    ],
+    [
+        "newapp1",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.45436882972717285,
+            "decompile_time": 1.9207255840301514,
+            "souffle_time": 0.8440377712249756
         }
     ],
     [
@@ -375,39 +375,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.16927075386047363,
-            "decompile_time": 0.6033787727355957,
-            "souffle_time": 0.32498717308044434
-        }
-    ],
-    [
-        "eosuber",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.9477114677429199,
-            "decompile_time": 4.3629536628723145,
-            "souffle_time": 3.7249088287353516
-        }
-    ],
-    [
-        "ramconsumer",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.25967979431152344,
-            "decompile_time": 0.9737975597381592,
-            "souffle_time": 0.3787674903869629
-        }
-    ],
-    [
-        "kingofeos",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.8061356544494629,
-            "decompile_time": 3.4938316345214844,
-            "souffle_time": 2.881368398666382
+            "build_cfg_time": 0.20895910263061523,
+            "decompile_time": 0.7008945941925049,
+            "souffle_time": 0.2817707061767578
         }
     ],
     [
@@ -415,9 +385,39 @@
         [],
         [],
         {
-            "build_cfg_time": 1.3448903560638428,
-            "decompile_time": 4.626280307769775,
-            "souffle_time": 4.696351528167725
+            "build_cfg_time": 1.259523630142212,
+            "decompile_time": 4.516139030456543,
+            "souffle_time": 4.922534465789795
+        }
+    ],
+    [
+        "ramconsumer",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.24600911140441895,
+            "decompile_time": 1.2270500659942627,
+            "souffle_time": 0.37952113151550293
+        }
+    ],
+    [
+        "kingofeos",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.7996788024902344,
+            "decompile_time": 3.8276872634887695,
+            "souffle_time": 2.8659615516662598
+        }
+    ],
+    [
+        "eosuber",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.183372974395752,
+            "decompile_time": 4.856950521469116,
+            "souffle_time": 3.630256414413452
         }
     ],
     [
@@ -425,9 +425,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.4621138572692871,
-            "decompile_time": 1.7483999729156494,
-            "souffle_time": 0.8805036544799805
+            "build_cfg_time": 0.6110608577728271,
+            "decompile_time": 2.028604507446289,
+            "souffle_time": 0.8726069927215576
         }
     ],
     [
@@ -435,19 +435,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.7945561408996582,
-            "decompile_time": 2.887479782104492,
-            "souffle_time": 1.570432424545288
-        }
-    ],
-    [
-        "pradata",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.8902738094329834,
-            "decompile_time": 2.800665855407715,
-            "souffle_time": 2.4302124977111816
+            "build_cfg_time": 0.874047040939331,
+            "decompile_time": 3.0072383880615234,
+            "souffle_time": 1.62986421585083
         }
     ],
     [
@@ -455,9 +445,19 @@
         [],
         [],
         {
-            "build_cfg_time": 0.3967256546020508,
-            "decompile_time": 1.7972724437713623,
-            "souffle_time": 1.2981598377227783
+            "build_cfg_time": 0.5291967391967773,
+            "decompile_time": 1.7939751148223877,
+            "souffle_time": 1.3813626766204834
+        }
+    ],
+    [
+        "pradata",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.7728033065795898,
+            "decompile_time": 3.1043312549591064,
+            "souffle_time": 2.407280445098877
         }
     ],
     [
@@ -465,9 +465,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.36784911155700684,
-            "decompile_time": 1.3969533443450928,
-            "souffle_time": 0.5603764057159424
+            "build_cfg_time": 0.38107728958129883,
+            "decompile_time": 1.2404906749725342,
+            "souffle_time": 0.5755867958068848
         }
     ],
     [
@@ -475,9 +475,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.6655683517456055,
-            "decompile_time": 2.7476272583007812,
-            "souffle_time": 1.4388988018035889
+            "build_cfg_time": 0.6173901557922363,
+            "decompile_time": 2.738842487335205,
+            "souffle_time": 1.5191981792449951
         }
     ],
     [
@@ -485,9 +485,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.44582438468933105,
-            "decompile_time": 1.5223453044891357,
-            "souffle_time": 0.6397976875305176
+            "build_cfg_time": 0.40842437744140625,
+            "decompile_time": 1.5939974784851074,
+            "souffle_time": 0.7005212306976318
         }
     ],
     [
@@ -495,9 +495,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.9566426277160645,
-            "decompile_time": 3.0846941471099854,
-            "souffle_time": 1.596562147140503
+            "build_cfg_time": 0.9388060569763184,
+            "decompile_time": 2.956904649734497,
+            "souffle_time": 1.8257155418395996
         }
     ],
     [
@@ -505,9 +505,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.3554306030273438,
-            "decompile_time": 5.251015901565552,
-            "souffle_time": 5.360116720199585
+            "build_cfg_time": 1.4105031490325928,
+            "decompile_time": 4.979799747467041,
+            "souffle_time": 5.403325080871582
         }
     ],
     [
@@ -515,9 +515,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.34775280952453613,
-            "decompile_time": 1.5157511234283447,
-            "souffle_time": 0.5756919384002686
+            "build_cfg_time": 0.4561150074005127,
+            "decompile_time": 1.4546401500701904,
+            "souffle_time": 0.5630097389221191
         }
     ],
     [
@@ -525,9 +525,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.5814149379730225,
-            "decompile_time": 2.124206304550171,
-            "souffle_time": 0.8619742393493652
+            "build_cfg_time": 0.6285829544067383,
+            "decompile_time": 1.9365758895874023,
+            "souffle_time": 0.9069151878356934
         }
     ],
     [
@@ -535,9 +535,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.1951208114624023,
-            "decompile_time": 4.011312961578369,
-            "souffle_time": 2.19853138923645
+            "build_cfg_time": 1.1466248035430908,
+            "decompile_time": 3.8595855236053467,
+            "souffle_time": 2.111177444458008
         }
     ],
     [
@@ -545,9 +545,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.7545223236083984,
-            "decompile_time": 2.5082552433013916,
-            "souffle_time": 1.7138426303863525
+            "build_cfg_time": 0.7429304122924805,
+            "decompile_time": 2.7932610511779785,
+            "souffle_time": 1.7845580577850342
         }
     ],
     [
@@ -555,9 +555,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.5282373428344727,
-            "decompile_time": 4.354995489120483,
-            "souffle_time": 2.8118879795074463
+            "build_cfg_time": 1.7322142124176025,
+            "decompile_time": 4.660196542739868,
+            "souffle_time": 2.6223015785217285
         }
     ],
     [
@@ -565,9 +565,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.660762071609497,
-            "decompile_time": 5.158461809158325,
-            "souffle_time": 3.0996553897857666
+            "build_cfg_time": 1.8388824462890625,
+            "decompile_time": 5.337062358856201,
+            "souffle_time": 2.9574193954467773
         }
     ],
     [
@@ -575,9 +575,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.5657193660736084,
-            "decompile_time": 9.395904779434204,
-            "souffle_time": 4.049838066101074
+            "build_cfg_time": 1.5755727291107178,
+            "decompile_time": 9.216710805892944,
+            "souffle_time": 4.339572191238403
         }
     ],
     [
@@ -585,19 +585,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.9529271125793457,
-            "decompile_time": 3.7097227573394775,
-            "souffle_time": 2.0871639251708984
-        }
-    ],
-    [
-        "shine",
-        [],
-        [],
-        {
-            "build_cfg_time": 1.6423962116241455,
-            "decompile_time": 6.320888519287109,
-            "souffle_time": 4.963776350021362
+            "build_cfg_time": 0.8334462642669678,
+            "decompile_time": 3.5219855308532715,
+            "souffle_time": 2.231187343597412
         }
     ],
     [
@@ -605,19 +595,19 @@
         [],
         [],
         {
-            "build_cfg_time": 1.9528248310089111,
-            "decompile_time": 7.0667948722839355,
-            "souffle_time": 12.342886924743652
+            "build_cfg_time": 2.0238256454467773,
+            "decompile_time": 6.6413774490356445,
+            "souffle_time": 11.825289249420166
         }
     ],
     [
-        "watchdoggiee",
+        "shine",
         [],
         [],
         {
-            "build_cfg_time": 0.5943832397460938,
-            "decompile_time": 2.020289421081543,
-            "souffle_time": 0.7897305488586426
+            "build_cfg_time": 1.7529637813568115,
+            "decompile_time": 5.976422309875488,
+            "souffle_time": 4.840156555175781
         }
     ],
     [
@@ -625,9 +615,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.7245826721191406,
-            "decompile_time": 3.4805407524108887,
-            "souffle_time": 1.3704805374145508
+            "build_cfg_time": 0.7317259311676025,
+            "decompile_time": 3.2691869735717773,
+            "souffle_time": 1.3750414848327637
         }
     ],
     [
@@ -635,9 +625,19 @@
         [],
         [],
         {
-            "build_cfg_time": 1.0792779922485352,
-            "decompile_time": 4.1186394691467285,
-            "souffle_time": 2.3168063163757324
+            "build_cfg_time": 1.2228407859802246,
+            "decompile_time": 3.7879364490509033,
+            "souffle_time": 2.317478895187378
+        }
+    ],
+    [
+        "watchdoggiee",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.5823519229888916,
+            "decompile_time": 1.9643163681030273,
+            "souffle_time": 0.8243837356567383
         }
     ],
     [
@@ -645,19 +645,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.3089437484741211,
-            "decompile_time": 1.2679882049560547,
-            "souffle_time": 0.438065767288208
-        }
-    ],
-    [
-        "goodnoti",
-        [],
-        [],
-        {
-            "build_cfg_time": 0.21284103393554688,
-            "decompile_time": 0.8786094188690186,
-            "souffle_time": 0.31354355812072754
+            "build_cfg_time": 0.3589203357696533,
+            "decompile_time": 1.3442866802215576,
+            "souffle_time": 0.4106154441833496
         }
     ],
     [
@@ -665,9 +655,9 @@
         [],
         [],
         {
-            "build_cfg_time": 0.3907771110534668,
-            "decompile_time": 1.1232044696807861,
-            "souffle_time": 0.5654292106628418
+            "build_cfg_time": 0.38556528091430664,
+            "decompile_time": 1.3125605583190918,
+            "souffle_time": 0.6805860996246338
         }
     ],
     [
@@ -675,29 +665,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.8863439559936523,
-            "decompile_time": 10.246367692947388,
-            "souffle_time": 11.92189908027649
-        }
-    ],
-    [
-        "wallet",
-        [],
-        [],
-        {
-            "build_cfg_time": 1.8981876373291016,
-            "decompile_time": 5.439423084259033,
-            "souffle_time": 4.363215923309326
-        }
-    ],
-    [
-        "owdinnetwork",
-        [],
-        [],
-        {
-            "build_cfg_time": 4.545828580856323,
-            "decompile_time": 11.640074968338013,
-            "souffle_time": 8.891645193099976
+            "build_cfg_time": 1.7221906185150146,
+            "decompile_time": 10.148497104644775,
+            "souffle_time": 11.649048328399658
         }
     ],
     [
@@ -705,29 +675,29 @@
         [],
         [],
         {
-            "build_cfg_time": 2.0641229152679443,
-            "decompile_time": 6.314133882522583,
-            "souffle_time": 6.474228382110596
+            "build_cfg_time": 1.8877930641174316,
+            "decompile_time": 6.456181526184082,
+            "souffle_time": 6.562407493591309
         }
     ],
     [
-        "unionramgame",
+        "wallet",
         [],
         [],
         {
-            "build_cfg_time": 2.1983165740966797,
-            "decompile_time": 9.9343581199646,
-            "souffle_time": 11.40682315826416
+            "build_cfg_time": 2.0095536708831787,
+            "decompile_time": 5.174380302429199,
+            "souffle_time": 4.863394737243652
         }
     ],
     [
-        "monstereosio",
+        "owdinnetwork",
         [],
         [],
         {
-            "build_cfg_time": 6.313117742538452,
-            "decompile_time": 16.549514055252075,
-            "souffle_time": 13.891709327697754
+            "build_cfg_time": 4.081050634384155,
+            "decompile_time": 12.684002876281738,
+            "souffle_time": 9.147390365600586
         }
     ],
     [
@@ -735,9 +705,29 @@
         [],
         [],
         {
-            "build_cfg_time": 5.275728702545166,
-            "decompile_time": 17.09072709083557,
-            "souffle_time": 18.882054328918457
+            "build_cfg_time": 5.23614501953125,
+            "decompile_time": 17.535405158996582,
+            "souffle_time": 17.68692684173584
+        }
+    ],
+    [
+        "monstereosio",
+        [],
+        [],
+        {
+            "build_cfg_time": 6.321074485778809,
+            "decompile_time": 15.782788515090942,
+            "souffle_time": 14.270575046539307
+        }
+    ],
+    [
+        "unionramgame",
+        [],
+        [],
+        {
+            "build_cfg_time": 2.0703258514404297,
+            "decompile_time": 10.046820640563965,
+            "souffle_time": 12.237372159957886
         }
     ],
     [
@@ -745,9 +735,19 @@
         [],
         [],
         {
-            "build_cfg_time": 4.7674174308776855,
-            "decompile_time": 16.345117568969727,
-            "souffle_time": 17.496633529663086
+            "build_cfg_time": 4.894022703170776,
+            "decompile_time": 17.120041608810425,
+            "souffle_time": 18.443296670913696
+        }
+    ],
+    [
+        "oracle.new",
+        [],
+        [],
+        {
+            "build_cfg_time": 4.733179330825806,
+            "decompile_time": 11.642676591873169,
+            "souffle_time": 10.916256666183472
         }
     ],
     [
@@ -755,9 +755,9 @@
         [],
         [],
         {
-            "build_cfg_time": 7.352806568145752,
-            "decompile_time": 14.634730339050293,
-            "souffle_time": 20.798811435699463
+            "build_cfg_time": 7.261912107467651,
+            "decompile_time": 15.70156741142273,
+            "souffle_time": 20.377678632736206
         }
     ],
     [
@@ -765,9 +765,9 @@
         [],
         [],
         {
-            "build_cfg_time": 1.8870465755462646,
-            "decompile_time": 21.34945249557495,
-            "souffle_time": 46.49899673461914
+            "build_cfg_time": 1.9304208755493164,
+            "decompile_time": 21.277421951293945,
+            "souffle_time": 45.26166319847107
         }
     ],
     [
@@ -778,9 +778,9 @@
         ],
         [],
         {
-            "build_cfg_time": 2.3235318660736084,
-            "decompile_time": 15.916938066482544,
-            "souffle_time": 42.88650298118591
+            "build_cfg_time": 2.238527774810791,
+            "decompile_time": 16.473347663879395,
+            "souffle_time": 44.38086485862732
         }
     ],
     [
@@ -791,9 +791,9 @@
         ],
         [],
         {
-            "build_cfg_time": 2.764101028442383,
-            "decompile_time": 16.88198232650757,
-            "souffle_time": 44.90313458442688
+            "build_cfg_time": 2.8955931663513184,
+            "decompile_time": 17.887782335281372,
+            "souffle_time": 44.66233968734741
         }
     ],
     [
@@ -801,9 +801,9 @@
         [],
         [],
         {
-            "build_cfg_time": 2.526184320449829,
-            "decompile_time": 28.433976650238037,
-            "souffle_time": 47.95168614387512
+            "build_cfg_time": 2.394141674041748,
+            "decompile_time": 29.26387119293213,
+            "souffle_time": 47.99106478691101
         }
     ],
     [
@@ -811,9 +811,9 @@
         [],
         [],
         {
-            "build_cfg_time": 5.060007095336914,
-            "decompile_time": 34.255059003829956,
-            "souffle_time": 48.414562940597534
+            "build_cfg_time": 5.155682325363159,
+            "decompile_time": 34.95591139793396,
+            "souffle_time": 48.262959718704224
         }
     ],
     [
@@ -823,9 +823,9 @@
         ],
         [],
         {
-            "build_cfg_time": 5.157970428466797,
-            "decompile_time": 27.069216012954712,
-            "souffle_time": 56.77121615409851
+            "build_cfg_time": 5.1179211139678955,
+            "decompile_time": 27.438007831573486,
+            "souffle_time": 55.94902300834656
         }
     ],
     [
@@ -833,9 +833,9 @@
         [],
         [],
         {
-            "build_cfg_time": 9.79344630241394,
-            "decompile_time": 30.214309453964233,
-            "souffle_time": 77.42474794387817
+            "build_cfg_time": 9.297917127609253,
+            "decompile_time": 30.37916088104248,
+            "souffle_time": 77.68174576759338
         }
     ],
     [
@@ -843,9 +843,9 @@
         [],
         [],
         {
-            "build_cfg_time": 2.948869466781616,
-            "decompile_time": 122.90106201171875,
-            "souffle_time": 27.387514114379883
+            "build_cfg_time": 2.640542507171631,
+            "decompile_time": 162.5229139328003,
+            "souffle_time": 27.32216477394104
         }
     ],
     [
@@ -853,9 +853,9 @@
         [],
         [],
         {
-            "build_cfg_time": 10.499932527542114,
-            "decompile_time": 153.53254389762878,
-            "souffle_time": 30.268051862716675
+            "build_cfg_time": 10.429205894470215,
+            "decompile_time": 150.17323684692383,
+            "souffle_time": 29.270865201950073
         }
     ]
 ]
