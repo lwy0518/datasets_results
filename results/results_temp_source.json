@@ -11,7 +11,7 @@
             "eosbet",
             "charity",
             "tokenlock",
-            "lottery1",
+            "vigor",
             "eosbetcasino"
         ],
         "BlockInformationDependency": [
@@ -786,7 +786,6 @@
     [
         "lottery1",
         [
-            "DetectForgedTranNotification",
             "DetectBlockInfoDependency"
         ],
         [],
@@ -850,7 +849,9 @@
     ],
     [
         "vigor",
-        [],
+        [
+            "DetectForgedTranNotification"
+        ],
         [],
         {
             "build_cfg_time": 10.429205894470215,
